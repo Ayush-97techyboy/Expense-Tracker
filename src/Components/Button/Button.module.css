@@ -1,0 +1,29 @@
+.button {
+  background-color: #E3E3E3;
+  border: none;
+  font-weight: 700;
+  border-radius: 15px;
+  cursor: pointer;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  color: #000;
+}
+
+.primary {
+  background-color: #F4BB4A;
+  color: #FFFFFF;
+}
+
+.secondary {
+  background-color: #E3E3E3;
+  color: #000;
+  font-weight: 400;
+  width: fit-content;
+}
+
+.success {
+  background: linear-gradient(90deg, #B5DC52, #89E148);
+  color: #fff;
+}
