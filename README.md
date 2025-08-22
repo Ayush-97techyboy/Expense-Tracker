@@ -1,7 +1,5 @@
 # Expense-Tracker
 
-# Copilot Instructions for Expense Tracker
-
 ## Project Overview
 
 - **Stack:** React 18 + Vite, modular CSS, ESLint enforced
